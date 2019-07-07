@@ -1,4 +1,6 @@
 {
+    "name": "rossmitchell/xfi-currency",
+    "description": "Currency for use with MoneyPHP that handle Financial Prices with fractions of a penny",
     "require": {
         "php": ">=7.1",
         "moneyphp/money": "^3.2"
