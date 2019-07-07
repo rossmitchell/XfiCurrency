@@ -6,7 +6,9 @@ XFI Currency is a new currency type for use with [Money PHP](https://github.com/
 Installation
 ------------
 
-Will update once this can be installed used composer
+```
+composer require rossmitchell/xfi-currency
+```
 
 Rational
 --------
